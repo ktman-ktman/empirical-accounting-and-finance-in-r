@@ -4,7 +4,7 @@
         "dockerfile": "Dockerfile",
         "context": "..",
         "args": {
-            "VARIANT": "1.8.0-bullseye",
+            "VARIANT": "1.8.1-bullseye",
             "USERNAME": "vscode",
             "USE_UID": "1000",
             "USE_GID": "1000",
